@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "help": "cosway -h",
-    "cows": "cosway -l",
-    "cosway": "cosway"
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay"
   },
   "repository": {
     "type": "git",
