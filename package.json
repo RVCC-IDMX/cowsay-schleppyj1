@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "help": "cosway-h",
-    "cows": "cosway-l",
+    "help": "cosway -h",
+    "cows": "cosway -l",
     "cosway": "cosway"
   },
   "repository": {
